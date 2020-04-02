@@ -1,7 +1,6 @@
-#Mit-Comentario 1
-#Mit-Comentario 2
-#Mit-Comentario 3
-
+#Mariana - Comentario 1
+#Mariana - Comentario 2
+#Mariana - Comentario 3
 def main():
     print("Hola");
 
