@@ -1,7 +1,7 @@
-#Git
+# Git
 [Download](https://git-scm.com/downloads)
 
-##Setup
+## Setup
 
 ```bash
 # Crear un repositorio local en el directorio actual
