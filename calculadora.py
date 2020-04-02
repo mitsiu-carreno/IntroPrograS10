@@ -1,6 +1,6 @@
-#Mit-Comentario 1
-#Mit-Comentario 2
-#Mit-Comentario 3
+#nosoyMitsoyJuanito-Comentario 1
+#nosoyMitsoy juanito-Comentario 2
+#no soy Mit soy juanito-Comentario 3
 
 def main():
     print("Hola");
