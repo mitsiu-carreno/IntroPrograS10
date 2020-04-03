@@ -8,7 +8,8 @@
 
 
 #Multiplicacion
-
+def multiplica(a,b):
+    return a*b
 
 
 #Division
