@@ -31,7 +31,7 @@ def multiplica(a,b):
 
 def division(num1, num2):
 	return num1/num2;
-resultadodiv= división(8,2)
+resultadodiv= division(8,2)
 print (resultadodiv)
 
 
@@ -48,28 +48,30 @@ def main():
     operation = None;
     num1 = None;
     num2 = None;
+    result = None;
 
-    Print(Operation:);
-    Print(1 +)
-    Print(2 -)
-    Print(3 *)
-    Print(4 /)
-    operation = int(raw_input("Option:"))
+    print("Operation:");
+    print("1 +")
+    print("2 -")
+    print("3 *")
+    print("4 /")
+    operation = int(raw_input("Option: "))
 
-    num1 = float(raw_input("First number"))
-    num2 = float(raw_input("Second number"))
+    num1 = float(raw_input("First number "))
+    num2 = float(raw_input("Second number "))
 
 
     if operation == 1 :
-        suma(num1, num2);
+        result = suma(num1, num2);
     elif operation == 2 :
-        resta(num1, num2);
+        result = resta_sofia(num1, num2);
     elif operation == 3 :
-        multip(num1, num2);
+        result = multiplica(num1, num2);
     elif operation == 4 :
-        division(num1, num2);
-    else
+        result = division(num1, num2);
+    else:
         print("bye")
+    print(result)
 
 if __name__ == '__main__':
     main();
