@@ -1,3 +1,28 @@
+#Suma
+
+
+
+
+#Resta
+
+
+
+#Multiplicacion
+
+
+
+#Division
+
+
+
+
+
+#VerifSuma
+
+
+
+
+
 
 def main():
     print("Hola");
