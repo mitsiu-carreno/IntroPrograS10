@@ -1,8 +1,27 @@
+#Suma
 
 
-#Mariana - Comentario 1
-#Mariana - Comentario 2
-#Mariana - Comentario 3
+
+
+#Resta
+
+
+
+#Multiplicacion
+
+
+
+#Division
+
+
+
+
+
+#VerifSuma
+
+
+
+
 
 
 def main():
